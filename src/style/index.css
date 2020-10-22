@@ -1,0 +1,47 @@
+.ant-layout-has-sider .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 16px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+.ant-layout-has-sider .trigger:hover {
+  color: #108ee9;
+}
+.ant-layout-has-sider .logo {
+  height: 50px;
+  background: url(img/logo.png) no-repeat center center;
+  background-size: 30%;
+  border-radius: 6px;
+  margin: 16px;
+}
+:global .ant-menu-dark {
+  background: #363636 !important;
+}
+.ant-menu-submenu-horizontal .ant-menu-vertical .logout {
+  padding: 0;
+}
+.main-both {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+.main-left {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  float: left;
+  width: 20%;
+  min-height: 400px;
+  background-color: skyblue;
+}
+.main-right {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  float: right;
+  width: 79.2%;
+  min-height: 400px;
+  background-color: white;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0);
+}

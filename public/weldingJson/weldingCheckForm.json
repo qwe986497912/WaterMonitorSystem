@@ -1,0 +1,22 @@
+{
+  "issue_code": "",
+  "line_type": "",
+  "technology_type": "点焊",
+  "part_name": "",
+  "part_code": "00001",
+  "vehicle_type": "Tiguan L",
+  "workshop_section": "总拼",
+  "QRK_code": "",
+  "checker_name": "",
+  "checker_code": "",
+  "checked_date": "2020-6-14 14:12",
+  "shifts": "A",
+  "vehicle_code": "",
+  "defect_welding_joint_code": "",
+  "defect_work_station": "",
+  "defect_type": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "rework_selection": [0, 0, 0, 0],
+  "correction_measures_and_deadlines": "",
+  "rectifier_name": "",
+  "rectifier_code": ""
+}

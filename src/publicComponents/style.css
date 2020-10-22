@@ -1,0 +1,86 @@
+.edit-form {
+  margin: 5px;
+}
+.edit-form div input {
+  margin-left: 5px;
+  box-shadow: 1px 1px 2px #999;
+  border-radius: 4px;
+  width: 200px;
+  height: 30px;
+  line-height: 30;
+  font-size: 16px;
+  padding-left: 5px;
+  vertical-align: middle;
+  outline: none;
+  border: 1px solid #eee;
+}
+.edit-form div {
+  margin-top: 20px;
+}
+.edit-form div input[type="number"] {
+  width: 170px;
+}
+.edit-form div span {
+  display: inline-block;
+  width: 100px;
+  font-size: 16px;
+  vertical-align: middle;
+}
+.edit-form div:nth-child(1) {
+  margin-top: 0;
+}
+.view-form {
+  margin: 5px;
+  border-radius: 8px;
+}
+.view-form div {
+  background-color: white;
+  color: black;
+  border-left: 2px solid #999;
+  border-right: 2px solid #999;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 40px;
+}
+.view-form div span:nth-child(odd) {
+  display: inline-block;
+  width: 100px;
+  font-size: 16px;
+}
+.view-form div span:nth-child(even) {
+  display: inline-block;
+  width: 100px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.view-form div:last-child {
+  border-bottom: 2px solid #999;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.view-form div:first-child {
+  border-top: 2px solid #999;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.view-form div:nth-child(even) {
+  background-color: #999;
+  color: white;
+  box-sizing: border-box;
+}
+.public-table th {
+  width: 80px;
+  text-align: center;
+  line-height: 40px;
+  border-bottom: 4px solid #c9c9c9;
+}
+.public-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.public-table td {
+  text-align: center;
+  height: 36px;
+}
+.public-pagination {
+  margin-top: 20px;
+}

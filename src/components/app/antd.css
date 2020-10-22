@@ -1,0 +1,146 @@
+/* h1,h2,h3,h4,h5,h6,p{
+	margin: 0;
+	padding: 0;
+} */
+ul,li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.antd-DatePicker{
+	width: 6.25rem!important;
+	margin: 0.625rem 1.25rem!important;
+}
+.antd-RangePicker{
+	width: 20rem!important;
+	margin: 0 0.625rem!important;
+}
+
+.antd-Input{
+	margin: 0.625rem 1.25rem!important;
+	width: 10rem!important;
+}
+.antd-Button{
+	margin: 0.625rem 1.5rem!important;
+	width: 60px!important;
+}
+.antd-Select{
+	width: 10rem!important;
+	margin: 0.625rem 1.25rem!important;
+}
+.p_line{
+	display: inline-block;
+	border: 1px solid #d9d9d9;
+	border-radius: 4px;
+	width: 100%;
+	height: 2rem;
+	/* line-height: 2rem; */
+	font-size: 0.875rem;
+	color: rgba(0, 0, 0, 0.65);
+	padding: 4px 11px;
+	font-variant: tabular-nums;
+}
+.select{
+	width: 10rem;
+	height: 2rem;
+	position: relative;
+	display: inline-block;
+	margin: 0.625rem 1.25rem;
+	/* margin-left: 11px; */
+	line-height: 30px;
+	box-sizing: border-box;
+	cursor: pointer;
+	color: rgba(0, 0, 0, 0.65);
+	font-size: 14px;
+	font-variant: tabular-nums;
+	list-style: none;
+	font-feature-settings: 'tnum';
+	border: 1px solid #d9d9d9;
+	border-radius: 4px
+}
+.selectShort{
+	width: 5rem;
+	height: 2rem;
+	position: relative;
+	display: inline-block;
+	margin: 0.625rem 1.25rem;
+	/* margin-left: 11px; */
+	line-height: 30px;
+	box-sizing: border-box;
+	cursor: pointer;
+	color: rgba(0, 0, 0, 0.65);
+	font-size: 14px;
+	font-variant: tabular-nums;
+	list-style: none;
+	font-feature-settings: 'tnum';
+	border: 1px solid #d9d9d9;
+	border-radius: 4px
+}
+.selectLength{
+	width: 29.5rem;
+	height: 2rem;
+	position: relative;
+	display: inline-block;
+	/* margin: 0.625rem 1.25rem; */
+	/* margin-left: 11px; */
+	line-height: 30px;
+	box-sizing: border-box;
+	cursor: pointer;
+	color: rgba(0, 0, 0, 0.65);
+	font-size: 14px;
+	font-variant: tabular-nums;
+	list-style: none;
+	font-feature-settings: 'tnum';
+	border: 1px solid #d9d9d9;
+	border-radius: 4px
+}
+#chart_example{
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
+}
+.sensor-nav{
+	width: 700px;
+	height: 90px;
+	position: absolute;
+	left: 300px;
+	top: 115px;
+}
+.sensor-nav ul{
+	width: 100%;
+	height: 100%;
+}
+.sensor-nav li{
+	border: 1px solid black;
+	list-style: none;
+	height: 90px;
+	width: 120px;
+	float: left;
+	font-size: 16px;
+	line-height: 18px;
+	text-align: center;
+}
+.sensor-nav .sensor-span{
+	margin-top: 5px;
+	width: 48px;
+	height: 48px;
+	display: inline-block;
+}
+.sensor-nav a{
+	color: black;
+	display: block;
+}
+.sensor-nav a:hover{
+	font-size: 18px;
+	color: #1890ff ;
+	font-weight: bolder;
+}
+.deviceDetailsTable tr td{
+	width: 6.25rem;
+	height: 3rem;
+	font-size: 1rem;
+	line-height: 3.75rem;
+	text-align: center;
+	font-weight: bold;
+}

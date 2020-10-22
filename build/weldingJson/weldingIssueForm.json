@@ -1,0 +1,17 @@
+{
+  "issue_code": "issue_code",
+  "creator_name": "creator_name",
+  "creator_code": "creator_code",
+  "created_date": "created_date",
+  "vehicle_type": "vehicle_type",
+  "part_name": "part_name",
+  "part_code": "part_code",
+  "workshop_section": "workshop_section",
+  "work_station": "work_station",
+  "robot": "robot",
+  "technology_code": "technology_code",
+  "issue_type": "issue_type",
+  "defect_type": "defect_type",
+  "remark": "remark",
+  "photograph": ""
+}

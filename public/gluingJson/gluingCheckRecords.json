@@ -1,0 +1,27 @@
+{
+  "_id": "_id1",
+  "check_code": "check_code1",
+  "technology_type":"technology_type1",
+  "workshop": "workshop1",
+  "work_station":"work_station1",
+  "QRK_code": "QRK_code1",
+  "vehicle_type":"vehicle_type1",
+  "attachment": "attachment1",
+  "check_result":"check_result1",
+  "checker_name": "checker_name1",
+  "checker_id":"checker_id1",
+  "checked_date": "checked_date1",
+  "gluingDefectRecord": [
+    {
+      "_id":  "_id11",
+      "gluing_check_id": "gluing_check_id11",
+      "gluing_code":  "gluing_code11",
+      "defect_description": "defect_description11"
+    }, {
+      "_id":  "_id12",
+      "gluing_check_id": "gluing_check_id12",
+      "gluing_code":  "gluing_code12",
+      "defect_description": "defect_description12"
+    }
+  ]
+}
